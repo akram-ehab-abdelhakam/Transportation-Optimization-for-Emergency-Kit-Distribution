@@ -1,5 +1,3 @@
-# README
-
 # Transportation Optimization for Emergency-Kit Distribution in Egypt
 
 **Operations Research Project | Sphinx University | Group OR.9-11.A3**
