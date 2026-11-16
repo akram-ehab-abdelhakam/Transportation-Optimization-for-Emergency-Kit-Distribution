@@ -1,0 +1,41 @@
+﻿Source_ID,Source,Source_Governorate,Source_Lat,Source_Lon,Supply,Dest_ID,Destination,Dest_Governorate,Dest_Lat,Dest_Lon,Demand,Distance_km,Relay_Stops,Cost,Detour_Factor,Max_Leg_Range_km,Fixed_Cost,Rate_per_km,Relay_Cost,Cost_Unit
+S1,VACSERA,Giza,30.056,31.206,16,D1,Alexandria Main University Hospital,Alexandria,31.2,29.91,18,195.4,1,160,1.1,100,2,0.8,1.5,thousand EGP per unit
+S1,VACSERA,Giza,30.056,31.206,16,D2,Mansoura University Hospital,Dakahlia,31.0409,31.3785,10,121.8,1,101,1.1,100,2,0.8,1.5,thousand EGP per unit
+S1,VACSERA,Giza,30.056,31.206,16,D3,Assiut University Hospitals,Assiut,27.188,31.17,24,350.8,3,287,1.1,100,2,0.8,1.5,thousand EGP per unit
+S1,VACSERA,Giza,30.056,31.206,16,D4,Aswan University Hospital,Aswan,24.0889,32.8998,14,752.8,7,615,1.1,100,2,0.8,1.5,thousand EGP per unit
+S1,VACSERA,Giza,30.056,31.206,16,D5,Hurghada General Hospital,Red Sea,27.2579,33.8116,10,441.9,4,362,1.1,100,2,0.8,1.5,thousand EGP per unit
+S1,VACSERA,Giza,30.056,31.206,16,D6,Sohag University Hospital,Sohag,26.5569,31.6948,12,431.2,4,353,1.1,100,2,0.8,1.5,thousand EGP per unit
+S1,VACSERA,Giza,30.056,31.206,16,D7,Minya University Hospital,Minya,28.1099,30.7503,10,243.0,2,199,1.1,100,2,0.8,1.5,thousand EGP per unit
+S1,VACSERA,Giza,30.056,31.206,16,D8,Tanta University Hospital,Gharbia,30.7865,31.0004,8,91.9,0,76,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D1,Alexandria Main University Hospital,Alexandria,31.2,29.91,18,222.3,2,183,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D2,Mansoura University Hospital,Dakahlia,31.0409,31.3785,10,99.3,0,81,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D3,Assiut University Hospitals,Assiut,27.188,31.17,24,384.5,3,314,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D4,Aswan University Hospital,Aswan,24.0889,32.8998,14,769.1,7,628,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D5,Hurghada General Hospital,Red Sea,27.2579,33.8116,10,432.3,4,354,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D6,Sohag University Hospital,Sohag,26.5569,31.6948,12,456.8,4,373,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D7,Minya University Hospital,Minya,28.1099,30.7503,10,287.1,2,235,1.1,100,2,0.8,1.5,thousand EGP per unit
+S2,EIPICO,Sharqia,30.2917,31.7417,30,D8,Tanta University Hospital,Gharbia,30.7865,31.0004,8,98.8,0,81,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D1,Alexandria Main University Hospital,Alexandria,31.2,29.91,18,29.7,0,26,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D2,Mansoura University Hospital,Dakahlia,31.0409,31.3785,10,166.7,1,137,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D3,Assiut University Hospitals,Assiut,27.188,31.17,24,486.7,4,397,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D4,Aswan University Hospital,Aswan,24.0889,32.8998,14,907.7,9,742,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D5,Hurghada General Hospital,Red Sea,27.2579,33.8116,10,625.9,6,512,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D6,Sohag University Hospital,Sohag,26.5569,31.6948,12,578.2,5,472,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D7,Minya University Hospital,Minya,28.1099,30.7503,10,365.6,3,299,1.1,100,2,0.8,1.5,thousand EGP per unit
+S3,Pharco Pharmaceuticals,Alexandria,30.98,29.79,22,D8,Tanta University Hospital,Gharbia,30.7865,31.0004,8,129.2,1,107,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D1,Alexandria Main University Hospital,Alexandria,31.2,29.91,18,503.3,5,412,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D2,Mansoura University Hospital,Dakahlia,31.0409,31.3785,10,464.0,4,379,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D3,Assiut University Hospitals,Assiut,27.188,31.17,24,10.0,0,10,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D4,Aswan University Hospital,Aswan,24.0889,32.8998,14,428.2,4,351,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D5,Hurghada General Hospital,Red Sea,27.2579,33.8116,10,280.7,2,230,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D6,Sohag University Hospital,Sohag,26.5569,31.6948,12,98.8,0,81,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D7,Minya University Hospital,Minya,28.1099,30.7503,10,117.3,1,97,1.1,100,2,0.8,1.5,thousand EGP per unit
+S4,Assiut Emergency Hub (proposed),Assiut,27.25,31.23,18,D8,Tanta University Hospital,Gharbia,30.7865,31.0004,8,433.3,4,355,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D1,Alexandria Main University Hospital,Alexandria,31.2,29.91,18,203.2,2,168,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D2,Mansoura University Hospital,Dakahlia,31.0409,31.3785,10,99.9,0,82,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D3,Assiut University Hospitals,Assiut,27.188,31.17,24,373.4,3,305,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D4,Aswan University Hospital,Aswan,24.0889,32.8998,14,766.7,7,626,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D5,Hurghada General Hospital,Red Sea,27.2579,33.8116,10,441.2,4,361,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D6,Sohag University Hospital,Sohag,26.5569,31.6948,12,449.7,4,368,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D7,Minya University Hospital,Minya,28.1099,30.7503,10,270.5,2,221,1.1,100,2,0.8,1.5,thousand EGP per unit
+S5,Amoun Pharmaceutical,Qalyubia,30.2285,31.4781,30,D8,Tanta University Hospital,Gharbia,30.7865,31.0004,8,84.8,0,70,1.1,100,2,0.8,1.5,thousand EGP per unit
